@@ -1,10 +1,12 @@
 <p align="center">#Olá mundo, Eu sou o Luis Leda !!! </p>
+<hr>
 <p align="center"><img aling="center" src="https://github.com/luisleda/devluisleda.portfolio/blob/main/images/luisledalogo.png?raw=true"/></p>
 </br>
 
  <div align="center"><br>
-  <a href="https://github.com/luisleda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisleda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <p padding-top="220px"<a href="https://github.com/luisleda"> </p?
+   <hr>
+  <p padding-bottom="180em"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisleda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> </p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisleda&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <hr>
