@@ -2,26 +2,26 @@
 <p align="center"><img aling="center" src="https://github.com/luisleda/devluisleda.portfolio/blob/main/images/luisledalogo.png?raw=true"/></p>
 </br>
 
- <div><br>
+ <div align="center"><br>
   <a href="https://github.com/luisleda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisleda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisleda&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <hr>
  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Luis-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">--
-  <img align="center" alt="Luis-Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">--
-  <img align="center" alt="Luis-Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">--
-  <img align="center" alt="Luis-Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">--
-  <img align="center" alt="Luis-Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">--
-  <img align="center" alt="Luis-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">--
-  <img align="center" alt="Luis-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">--
-  <img align="center" alt="Luis-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">--
-  <img align="center" alt="Luis-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">--
-  <img align="center" alt="Luis-pstgresql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">--
-  <img align="center" alt="Luis-docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">--
-  <img align="center" alt="Luis-wordpress" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+ <div align="center" style="display: inline_block"><br>
+  <img alt="Luis-HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Luis-CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Luis-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Luis-BootStrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="Luis-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="Luis-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Luis-Kotlin" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img alt="Luis-Android" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img alt="Luis-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">--
+  <img alt="Luis-pstgresql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="Luis-docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img alt="Luis-wordpress" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
 
 
   
