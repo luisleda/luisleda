@@ -1,4 +1,4 @@
-<p align="center">#Olá mundo, Eu sou o Luis Leda !!! </p>
+<div align="center"><h2>#Olá mundo, Eu sou o Luis Leda !!! </h2></div>
 <hr>
 <p align="center"><img aling="center" src="https://github.com/luisleda/devluisleda.portfolio/blob/main/images/luisledalogo.png?raw=true"/></p>
 </br>
