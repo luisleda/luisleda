@@ -1,4 +1,4 @@
-<p align="center"><img alt="luisledalogo" height="300" width="350" src="https://user-images.githubusercontent.com/81451242/153444841-5b56dc18-5c21-445f-9b76-eb5fd8a260ac.png"></p>
+<p align="center"><img alt="luisledalogo" height="250" width="300" src="https://user-images.githubusercontent.com/81451242/153444841-5b56dc18-5c21-445f-9b76-eb5fd8a260ac.png"></p>
 
 <h1 align="center">Dev. Luís Leda</h1>
 
