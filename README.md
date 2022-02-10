@@ -39,7 +39,7 @@ Programação, café, equações e por Kotlin.</h6>
 </div>
 
 <div align="center" style="margin-left:10px> 
-  <a href="https://instagram.com/luisleda" target="_blank"><img src="https://user-images.githubusercontent.com/81451242/153479762-48c60222-5ce5-4d22-9338-7c91ac7435b3.png" target="_blank"></a>
+  <a href="https://www.instagram.com/luisleda" target="_blank"><img src="https://user-images.githubusercontent.com/81451242/153479762-48c60222-5ce5-4d22-9338-7c91ac7435b3.png" target="_blank"></a>
   <a href="mailto:luis_neto@live.com"><img src="https://user-images.githubusercontent.com/81451242/153479944-aa4077f1-e637-44b4-9f86-a7f38a6f17b6.png"></a>
   <a href="https://www.linkedin.com/in/luisleda" target="_blank"><img src="https://user-images.githubusercontent.com/81451242/153479539-61460ca6-2305-4fd7-9aff-e5eaf16ce628.png" target="_blank"></a> 
 </div>
