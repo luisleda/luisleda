@@ -24,7 +24,7 @@ Programação, café, equações e por Kotlin.</h6>
   <img alt="Luis-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Luis-Kotlin" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img alt="Luis-Android" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img alt="Luis-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">--
+  <img alt="Luis-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img alt="Luis-pstgresql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img alt="Luis-docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img alt="Luis-wordpress" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
@@ -39,9 +39,9 @@ Programação, café, equações e por Kotlin.</h6>
 </div>
 
 <div align="center" style="margin-left:10px> 
-  <a href="https://www.instagram.com/_luisleda" target="_blank"><img src="https://user-images.githubusercontent.com/81451242/153479762-48c60222-5ce5-4d22-9338-7c91ac7435b3.png" target="_blank"></a>
-  <a href="mailto:luis_neto@live.com"><img src="https://user-images.githubusercontent.com/81451242/153479944-aa4077f1-e637-44b4-9f86-a7f38a6f17b6.png"></a>
-  <a href="https://www.linkedin.com/in/luisleda" target="_blank"><img src="https://user-images.githubusercontent.com/81451242/153479539-61460ca6-2305-4fd7-9aff-e5eaf16ce628.png" target="_blank"></a> 
+  <a href="https://www.instagram.com/_luisleda/" target="_blank"><img src="https://user-images.githubusercontent.com/81451242/153655025-6fa9a747-333c-46ca-8172-d745f92e974b.png" target="_blank" height="50" width="50"></a>
+  <a href="mailto:luis_neto@live.com"><img src="https://user-images.githubusercontent.com/81451242/153654554-42c3e6c7-7529-46cf-a975-625cfc6484b4.png" height="50" width="50"></a>
+  <a href="https://www.linkedin.com/in/luisleda" target="_blank"><img src="https://user-images.githubusercontent.com/81451242/153654213-c52fcf17-edb9-41bf-b58b-09d632fd51e8.png" target="_blank" height="50" width="50"></a> 
 </div>
 
  <h4 align="center">Minhas estatística no GITHUB:</h4>
