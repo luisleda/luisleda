@@ -4,13 +4,13 @@
 
 </br>
 <h4 align="center"><p>Desenvolvedor full-stack junior</h4>
-<h6 align="center"><p>Estudante do curso de Ciência da Computação, com objetivo
+<h3 align="center"><p>Estudante do curso de Ciência da Computação, com objetivo
 de me tornar desenvolvedor Full-Stack Sênior. Tenho como
 metas o domínio completo do maior número de tecnologias
 possíveis e o desenvolvimento de sistemas que sejam a
 solução para problemas complexos.
 Apaixonado por:
-Programação, café, equações e por Kotlin.</h6>
+Programação, café, equações e por Kotlin.</h3>
 </br>
 
 <div>
