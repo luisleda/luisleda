@@ -4,7 +4,7 @@
 
 </br>
 <h4 align="center"><p>Desenvolvedor full-stack junior</h4>
-<h3 align="center"><p>Estudante do curso de Ciência da Computação, com objetivo
+<h3 align="center"><p>Programador formado em Ciência da Computação, com objetivo
 de me tornar desenvolvedor Full-Stack Sênior. Tenho como
 metas o domínio completo do maior número de tecnologias
 possíveis e o desenvolvimento de sistemas que sejam a
