@@ -1,20 +1,19 @@
 <p align="center"><img alt="luisledalogo" height="250" width="300" src="https://user-images.githubusercontent.com/81451242/153656805-6ba714d9-faea-4ed2-be4d-be64638b8521.png"></p>
+<div><h1 align="center">Dev. Luís Leda</h1>
+<h3 align="center"><p>Desenvolvedor Full-Stack Pleno</h3></div>
 
-<h1 align="center">Dev. Luís Leda</h1>
 
-</br>
-<h4 align="center"><p>Desenvolvedor Full-Stack Pleno</h4>
-<h3 align="center"><p>D formado em Ciência da Computação, com objetivo
+<h3 align="center">Desenvolvedor formado em Ciência da Computação, com objetivo
 de me tornar desenvolvedor Full-Stack Sênior. Tenho como
 metas o domínio completo do maior número de tecnologias
 possíveis e o desenvolvimento de sistemas que sejam a
-solução para problemas complexos.
+solução para problemas complexos e proporcionem melhorias para a sociedade.
 Apaixonado por:
 Programação, café, equações e por Kotlin.</h3>
 </br>
 
-<div>
-<div align="left style="display: inline_block">
+
+  <div align="left" style="display: inline_block">
   <h3>Skills Básicas:</h3>
   
   [![My Skills](https://skills.thijs.gg/icons?i=html,css,docker,git,nodejs,wordpress,androidstudio)](https://skills.thijs.gg)
@@ -36,9 +35,6 @@ Programação, café, equações e por Kotlin.</h3>
   [![My Skills](https://skills.thijs.gg/icons?i=ps,ai,figma,arduino)](https://skills.thijs.gg)
 
  </div>
- 
-</div>
-
 
  
  
