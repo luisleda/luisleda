@@ -42,8 +42,8 @@ Programação, café, equações e por Kotlin.</h3>
   <h4 align="center"> Meus status:</h4>
   
   <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisleda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisleda&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisleda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisleda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
