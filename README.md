@@ -35,6 +35,19 @@ Programação, café, equações e por Kotlin.</h3>
   [![My Skills](https://skills.thijs.gg/icons?i=ps,ai,figma,arduino)](https://skills.thijs.gg)
 
  </div>
+ 
+ 
+ <div align="center">
+  
+  <h4 align="center"> Meus status:</h4>
+  
+  <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisleda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisleda&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+
+</div>
 
  
  
@@ -53,6 +66,6 @@ Programação, café, equações e por Kotlin.</h3>
 
 
 <h4 align="center"><em>"Minha mente é mais do que algo meramente mortal e o tempo mostrará isso"</em></h4>
-<h4 align="center"><em>Ada Lovelace</em></h4>
+<h4 align="end"><em>Ada Lovelace</em></h4>
 
                                                                                                 
